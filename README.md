@@ -67,7 +67,7 @@ Plateforme où les e-commerçants commandent des vidéos pub pour leurs produits
 - **8 langues** dont l'arabe (droite à gauche), mode clair / sombre, responsive
 - Suivi des commandes et messagerie du service client **en temps réel**
 
-#### 📄 CanalPDF — 34 outils PDF 100 % dans le navigateur · [Site](https://canalpdf.com) · [Code](https://github.com/jeanbaptistejunioroth-jpg/canalpdf)
+#### 📄 CanalPDF — 34 outils PDF 100 % dans le navigateur · [Site](https://canalpdf.com) · [Vitrine](https://github.com/jeanbaptistejunioroth-jpg/canalpdf-showcase)
 `JavaScript` `pdf-lib` `PDF.js` `Transformers.js` `Node.js` `PWA`
 
 Application web de traitement PDF sans serveur : les fichiers ne quittent jamais l'appareil de l'utilisateur.
