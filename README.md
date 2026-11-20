@@ -67,6 +67,15 @@ Plateforme où les e-commerçants commandent des vidéos pub pour leurs produits
 - **8 langues** dont l'arabe (droite à gauche), mode clair / sombre, responsive
 - Suivi des commandes et messagerie du service client **en temps réel**
 
+#### 📄 CanalPDF — 34 outils PDF 100 % dans le navigateur · [Site](https://canalpdf.com) · [Code](https://github.com/jeanbaptistejunioroth-jpg/canalpdf)
+`JavaScript` `pdf-lib` `PDF.js` `Transformers.js` `Node.js` `PWA`
+
+Application web de traitement PDF sans serveur : les fichiers ne quittent jamais l'appareil de l'utilisateur.
+- **34 outils** : fusionner, compresser, convertir (Word, JPG, Excel, HTML), signer, OCR, protéger, comparer…
+- **IA locale dans le navigateur** : traduction (OPUS-MT) et résumé de PDF
+- **6 langues**, 214 pages générées par un générateur statique Node.js, SEO complet (JSON-LD, hreflang, sitemap)
+- Sécurité : CSP stricte, code obfusqué et verrouillé sur le domaine, application installable (PWA)
+
 #### ☀️ Supervision Solaire — Délestage intelligent d'une installation PV · [Démo](https://supervision-solaire-enspd.vercel.app) · [Code](https://github.com/jeanbaptistejunioroth-jpg/supervision-solaire-enspd)
 `ESP32` `Arduino` `C++` `JavaScript` `Telegram Bot API`
 
