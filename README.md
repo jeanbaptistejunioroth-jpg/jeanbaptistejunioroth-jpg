@@ -1,5 +1,5 @@
 <h1 align="center">Salut, moi c'est Jean Baptiste 👋</h1>
-<h3 align="center">Ingénieur en Génie Électrique & Systèmes Intelligents · Développeur Full-Stack & IoT</h3>
+<h3 align="center">Ingénieur en Génie Électrique & Systèmes Intelligents · Développeur Full-Stack & IoT · Vibe Coding</h3>
 
 <p align="center">
   📍 Douala, Cameroun &nbsp;·&nbsp; 🎓 ENSPD 2026 &nbsp;·&nbsp; 🌍 Disponible en remote &nbsp;·&nbsp; 🇫🇷 Français / 🇬🇧 English (B1)
@@ -13,6 +13,7 @@ Je construis des produits **de bout en bout** : du capteur branché sur une cart
 
 - 🌐 **Web full-stack** — applications SaaS en Next.js / React / TypeScript, API Node.js, auth, paiements, multilingue
 - 🔌 **IoT & systèmes embarqués** — Arduino, ESP32, acquisition de mesures, tableaux de bord temps réel, alertes Telegram
+- 🤖 **Vibe coding / développement assisté par IA** — je conçois, pilote et livre des applications complètes avec des agents IA (Claude) : cadrage, génération du code, revue, tests, sécurité et mise en production. C'est avec cette méthode que j'ai réalisé VIDSELLA, CanalPDF et StreamLoader
 - 🖥️ **Applications desktop** — Electron, installeurs Windows
 - ⚡ **Génie électrique & automatismes** — supervision d'installations, délestage intelligent, automates (Siemens / Schneider)
 
@@ -44,6 +45,12 @@ Je construis des produits **de bout en bout** : du capteur branché sur une cart
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 ![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat&logo=telegram&logoColor=white)
+
+**IA & vibe coding**
+![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-FF6B6B?style=flat&logo=sparkles&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_(IA)-D97757?style=flat&logo=anthropic&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=flat&logoColor=white)
+![Transformers.js](https://img.shields.io/badge/Transformers.js_(IA_locale)-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 **Desktop, déploiement & outils**
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
